@@ -24,14 +24,14 @@
 # Digitale Editionen 
 ## Gemeinschaftsprojekte 
 
-Arnold von Harff, Reisebericht (Oxford, Bodleian Library, MS Bodl. 972 (fols. 3r-8r; 123r-124r)(Gemeinsam mit Agnes Hilger) 
-https://editions.mml.ox.ac.uk/editions/harff/
+- Arnold von Harff, Reisebericht (Oxford, Bodleian Library, MS Bodl. 972 (fols. 3r-8r; 123r-124r)(Gemeinsam mit Agnes Hilger) 
+- [[https://editions.mml.ox.ac.uk/editions/harff/]]
 
-Passional Christi und Antichristi: 
-https://editions.mml.ox.ac.uk/editions/passional/
+- Passional Christi und Antichristi: 
+- [[https://editions.mml.ox.ac.uk/editions/passional/]]
 
 # Vorträge 
 
 05.05.2021 
 Arnold von Harff: Digital Editions 2 (Oxford History of the Book Projects 2021) 
-https://www.youtube.com/watch?v=8Zb4KsoxW6Y&list=PLBgANQb85NpPhjfoYwpvug5P5QgIs4eUm
+[[https://www.youtube.com/watch?v=8Zb4KsoxW6Y&list=PLBgANQb85NpPhjfoYwpvug5P5QgIs4eUm]]
