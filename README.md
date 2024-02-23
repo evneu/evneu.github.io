@@ -1,6 +1,6 @@
 # Eva Neufeind 
 
-# Ausbildung 
+# Werdegang 
 
 - seit 10/2023 wissenschaftliche Mitarbeiterin mit Schwerpunkt auf Digital Humanities im Projekt "Netzwerke der Nonnen. Edition und Erschließung der Briefsammlung aus Kloster Lüne (ca. 1460-1555)"
   
